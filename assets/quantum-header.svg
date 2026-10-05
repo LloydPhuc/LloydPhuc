@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" role="img" aria-labelledby="title desc">
-  <title id="title">Lê Hữu Phúc — Quantum Computing and Applied Machine Learning</title>
+  <title id="title">Lê Hữu Phúc — Quantum Computing, Applied Machine Learning and Deep Learning</title>
   <desc id="desc">An original navy banner with blue, violet and cyan waves, circuit lines and a wireframe sphere.</desc>
   <defs>
     <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#1e2450"/></linearGradient>
@@ -10,9 +10,9 @@
   <g fill="none" stroke="#a5b4fc" stroke-width="1" opacity=".08">
     <path d="M650 0V220M700 0V220M750 0V220M800 0V220M850 0V220M900 0V220M950 0V220M620 30H1000M620 70H1000M620 110H1000M620 150H1000M620 190H1000"/>
   </g>
-  <text x="40" y="40" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2.5">QUANTUM COMPUTING / APPLIED ML</text>
+  <text x="40" y="40" fill="#67e8f9" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2.5">QUANTUM COMPUTING / ML &amp; DL</text>
   <text x="40" y="92" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="700">Lê Hữu Phúc</text>
-  <text x="40" y="128" fill="#e0e7ff" font-family="Segoe UI,Arial,sans-serif" font-size="21">Quantum Computing &amp; Applied Machine Learning</text>
+  <text x="40" y="128" fill="#e0e7ff" font-family="Segoe UI,Arial,sans-serif" font-size="21">Quantum Computing · Applied ML &amp; Deep Learning</text>
   <text x="40" y="166" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="13">OPEN TO WORK · Researcher · Data Scientist · Data Engineer</text>
   <g fill="none" stroke="url(#wave)" stroke-width="2" opacity=".85">
     <path d="M670 82C700 30 715 30 745 82S790 134 820 82S865 30 895 82S940 134 970 82"/>

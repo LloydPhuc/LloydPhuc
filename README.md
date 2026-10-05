@@ -1,20 +1,20 @@
-<img src="assets/quantum-header.svg" alt="Lê Hữu Phúc — Quantum Computing and Applied Machine Learning" width="1000" />
+<img src="assets/quantum-header.svg" alt="Lê Hữu Phúc — Quantum Computing, Applied Machine Learning and Deep Learning" width="1000" />
 
 # Lê Hữu Phúc
 
-**Quantum Computing & Applied Machine Learning**
+**Quantum Computing · Applied Machine Learning & Deep Learning**
 
 **Bachelor’s student** at Ho Chi Minh City University of Technology (HCMUT) · Vietnam
 
 **Open to work:** Researcher · Data Scientist · Data Engineer
 
-I work at the intersection of quantum computing and applied machine learning, focusing on optimization, hybrid quantum–classical models, and hyperspectral analysis. I also develop research software and evidence-grounded AI tools.
+I work at the intersection of quantum computing, applied machine learning, and deep learning, focusing on optimization, hybrid quantum–classical models, and hyperspectral analysis. I also develop research software and evidence-grounded AI tools.
 
 ## Professional Focus
 
 - **Quantum Computing:** Working with variational circuits, quantum simulation, and quantum-ready QUBO formulations.
-- **Applied Machine Learning:** Studying hyperspectral band selection, classification, and spectral unmixing.
-- **Computer Vision & Representation Learning:** Co-authored work on pose-based human activity recognition using triplet embeddings and multiple instance learning.
+- **Applied Machine Learning & Deep Learning:** Studying hyperspectral band selection, classification, and spectral unmixing.
+- **Computer Vision & Representation Learning:** CNNs, ResNet, YOLO, and Vision Transformers (ViT); co-authored research on pose-based human activity recognition using triplet embeddings and multiple instance learning.
 - **Research Engineering:** Developing inspectable Python implementations, experiment pipelines, and tests with explicit experimental scope.
 - **AI Systems & LLMs:** Building document-retrieval and evidence-verification tools, while exploring tool-using agents and their evaluation.
 
@@ -22,9 +22,12 @@ I work at the intersection of quantum computing and applied machine learning, fo
 
 | Area | Technologies and methods |
 |---|---|
-| **Languages & Scientific Computing** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) · SciPy · pandas |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Web Fundamentals** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) |
+| **Scientific Computing** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) · SciPy · pandas |
 | **Quantum Computing** | ![PennyLane](https://img.shields.io/badge/PennyLane-6D28D9?style=flat-square) · Variational circuits · Statevector simulation · QUBO modeling |
-| **Machine Learning & Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Machine Learning & Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) · Keras |
+| **Computer Vision** | CNN · ResNet · YOLO · Vision Transformer (ViT) |
 | **AI Systems** | MCP · Transformers · BM25 · LangChain · LangGraph · FAISS |
 | **Developer & Research Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) · Jupyter · pytest · SQLite · FastAPI · Streamlit |
 
