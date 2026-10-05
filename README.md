@@ -32,6 +32,11 @@ I explore quantum computing and applied machine learning through research code a
 
 Selected co-authored work:
 
+### VNAL-PA: Variance-Normalized QUBO Optimization for Quantum-Ready Hyperspectral Band Selection
+
+*IEEE Quantum Week / QCE 2026*<br>
+**Accepted for publication — DOI pending.**
+
 ### From Noisy Beacons to Precise Location: A Confidence-Guided Cycle Retraining Strategy
 
 *2026 International Conference on Activity and Behavior Computing (ABC)* · IEEE · 2026<br>
@@ -41,11 +46,6 @@ Selected co-authored work:
 
 *Journal of Physics: Conference Series* **3180**, 012001 · 2026<br>
 **Conference-series paper** · [DOI: 10.1088/1742-6596/3180/1/012001](https://doi.org/10.1088/1742-6596/3180/1/012001)
-
-### VNAL-PA: Variance-Normalized QUBO Optimization for Quantum-Ready Hyperspectral Band Selection
-
-*IEEE Quantum Week / QCE 2026*<br>
-**Accepted for publication — DOI pending.**
 
 ## Current Explorations
 
