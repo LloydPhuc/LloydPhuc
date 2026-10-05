@@ -1,14 +1,14 @@
 <img src="assets/quantum-header.svg" alt="Lê Hữu Phúc — Quantum Computing and Applied Machine Learning" width="1000" />
 
-# Hi, I'm Lê Hữu Phúc
+# Lê Hữu Phúc
 
 **Quantum Computing & Applied Machine Learning**
 
-Bachelor’s student at Ho Chi Minh City University of Technology (HCMUT) · Vietnam
+**Bachelor’s student** at Ho Chi Minh City University of Technology (HCMUT) · Vietnam
 
-**Open to work** · Seeking research roles in quantum computing and AI.
+**Open to work:** Researcher · Data Scientist · Data Engineer
 
-I explore quantum computing and applied machine learning through research code and practical systems. My work spans quantum-ready optimization, hybrid quantum–classical models, and hyperspectral data analysis. I also build retrieval and evidence-verification tools to support research workflows.
+I work at the intersection of quantum computing and applied machine learning, focusing on optimization, hybrid quantum–classical models, and hyperspectral analysis. I also develop research software and evidence-grounded AI tools.
 
 ## Professional Focus
 
