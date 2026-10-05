@@ -6,7 +6,7 @@
 
 **Bachelor’s student** at Ho Chi Minh City University of Technology (HCMUT) · Vietnam
 
-**Open to work:** Researcher · Data Scientist · Data Engineer
+**Open to work:** Researcher · Data Scientist · Data Engineer · Data Analyst
 
 I work at the intersection of quantum computing, applied machine learning, and deep learning, focusing on optimization, hybrid quantum–classical models, and hyperspectral analysis. I also develop research software and evidence-grounded AI tools.
 
