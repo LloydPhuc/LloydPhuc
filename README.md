@@ -1,4 +1,4 @@
-<img src="assets/quantum-header.svg" alt="Lê Hữu Phúc — Quantum Computing, Applied Machine Learning and Deep Learning" width="1000" />
+<img src="assets/quantum-header-v2.svg" alt="Lê Hữu Phúc — Quantum Computing, Applied Machine Learning and Deep Learning" width="1000" />
 
 # Lê Hữu Phúc
 
